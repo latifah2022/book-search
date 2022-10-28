@@ -53,16 +53,13 @@ This application is simple to use. It resembles a website similar to Google but 
 
 ## Screenshots
 This is the main screen. 
-![Mainpage](images/bookSearchMain.png)
+![Mainpage](images/21-mern-homework-demo-02.gif)
 
 This shows the signup dialog box.
-![Signup dialog box](images/bookSearchSignup.png)
-
-This shows the login dialog box.
-![Login dialog box](images/bookSearchLogin.png)
+![Search results](images/21-mern-homework-demo-03.gif)
 
 This shows the results of a search.
-![Search results](images/bookSearchResults.png)
+![Search ](images/21-mern-homework-demo-01.gif)
 
 ## Contributors
 - Latifah Zawedde
