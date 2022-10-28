@@ -55,10 +55,10 @@ This application is simple to use. It resembles a website similar to Google but 
 This is the main screen. 
 ![Mainpage](images/21-mern-homework-demo-02.gif)
 
-This shows the signup dialog box.
+This shows the results dialog box.
 ![Search results](images/21-mern-homework-demo-03.gif)
 
-This shows the results of a search.
+This shows the search of a search.
 ![Search ](images/21-mern-homework-demo-01.gif)
 
 ## Contributors
