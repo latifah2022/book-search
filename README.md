@@ -65,7 +65,7 @@ This shows the results of a search.
 ![Search results](images/bookSearchResults.png)
 
 ## Contributors
-- Stephanie Davis
+- Latifah Zawedde
 
 ## Questions
 If you have any questions, please feel free to contact me. 
